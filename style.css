@@ -240,8 +240,8 @@ body {
 }
 
 .background-video-words {
-  width: 40px;
-  height: 2px;
+  width: 45px;
+  height: 3px;
   background: #C8A96E;
   margin-bottom: 1.5rem;
 }
@@ -1876,7 +1876,7 @@ body {
 }
 
 .tenth-section .youtube .video-text p {
-  color: #FFCC00; /* Brighter yellow as requested */
+  color: #FFCC00; 
   font-family: 'Inter', sans-serif;
   font-weight: 600;
   font-size: 0.75rem;
